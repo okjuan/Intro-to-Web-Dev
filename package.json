@@ -1,0 +1,11 @@
+{
+  "name": "intro-workshop",
+  "version": "1.0.0",
+  "description": "UVic web development intro workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos Gallegos",
+  "license": "ISC"
+}
